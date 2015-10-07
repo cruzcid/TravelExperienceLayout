@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelExperience</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_travel_experience_is">My Experience name Is</string>
+    <string name="precio">Price:</string>
+    <string name="experience">Experience:</string>
+    <string name="images">Images</string>
+    <string name="save_it">Save it</string>
+</resources>
